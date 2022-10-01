@@ -23,4 +23,4 @@ I am a Fullstack developer, currently working for Carte's MVP. I helped set ever
 
 I've truly enjoyed working with in this project and having the privilige to see it get built from the ground up. ❤️ 
 
-Please do not hesitate to reach out some of my repo's. 📫
+Please do not hesitate to reach out 📫, and checkout some of my repo's. 
