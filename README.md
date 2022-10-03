@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Greetings, I am [Juan from San Juan](https://www.linkedin.com/in/jasencio/) 👋, 
 
-I am a Fullstack developer, currently working for Carte's MVP; an Innovative digital menu and ordering platform built for restaurants. 
+I am a Veteran, and a Fullstack developer currently working for Carte's (Start Up) MVP; an Innovative digital menu and ordering platform built for restaurants. 
 
 I helped set everything from the ground up that allows a restaurant's menuEditor to manage their restaurant's menu items. They can see their menu items via rendered cards (mobile friendly), and path to add/edit menu items details such as name, price, description, images, ingredients, tags, etc. Implemented dynamic frontend dropdowns, cards, tables, and rendered data that allow restaurant administrators to analyze, create, and edit data in the databas.
 (see Carte React repo)
